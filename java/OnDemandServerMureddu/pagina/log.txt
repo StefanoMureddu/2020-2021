@@ -1,0 +1,4 @@
+2021-03-22T22:14:31.413 richiesto il file pagina\file.html con risultato 200
+2021-03-22T22:14:31.459 richiesto il file pagina\errore.html con risultato 404
+2021-03-22T22:14:47.512 richiesto il file pagina\errore.html con risultato 404
+2021-03-22T22:15:19.374 richiesto il file pagina\errore.html con risultato 404
